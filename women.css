@@ -1,0 +1,48 @@
+
+* {
+/* border: 1px solid black; */
+box-sizing: border-box;
+font-family: serif;
+text-size: 5pt
+}
+
+body {
+background-color: #B71C1C;
+}
+
+ul {
+    list-style-type:none;
+    margin: 20;
+    padding: 80;
+    display: incline block;
+    position: fixed;
+    font-size: 25px
+}
+
+li a {
+    text-decoration: underline;
+    font-family: serif;
+    font-color: #304FFE;
+
+}
+
+li a:hover {
+   background-color: #0000A0;
+    color:#304FFE;
+}
+
+facts {
+ border: 50px;
+ padding: 5px;
+ border: 20px;
+ height: 10px;
+ font-size: 25px
+ height: 10
+}
+
+ otherlinks {border: 50px;
+  padding: 5px;
+  border: 20px;
+  height: 10px;
+font-size: 25px;
+height: 10}
